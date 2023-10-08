@@ -61,7 +61,22 @@ namespace CharpUnik
 
             bool positive = num > 0;
 
-            bool simple = num %num == 0;
+            bool simple = true;
+            if (num > 1)
+            {
+                for (var i = 2u; i < num; i++)
+                {
+                    if (num % i == 0)
+                    {
+                        simple = false;
+                        break;
+                    }
+                }
+            }
+            else
+            {
+                simple = false;
+            }
 
             bool divisor = num % 2 == 0 && num % 5 == 0 && num % 3 == 0 && num % 6 == 0 && num % 9 == 0;
 
