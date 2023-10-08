@@ -8,15 +8,17 @@ namespace CharpUnik
 
         public void Main(string[] args)
         {
-            Console.WriteLine("Лабораторна робота 4");
+            Console.WriteLine("Лабораторна робота 4\n");
 
             Task2();
 
             Task3();
+
+            Task4();
         }
 
         private void Task2(){
-            Console.WriteLine("Використовуючи теорему Де Моргана, перетворіть вираз `A | B` у відповідний еквівалентний вираз.");
+            Console.WriteLine("Завдання 2\nВикористовуючи теорему Де Моргана, перетворіть вираз `A | B` у відповідний еквівалентний вираз.");
             string vir = "A | B";
 
             vir = vir.Insert(vir.Length,")").Insert(0,"(").Insert(0,"!").Replace('|', '&');
@@ -28,7 +30,7 @@ namespace CharpUnik
         }
     
         private void Task3(){
-            Console.WriteLine("Напишіть програму для перевірки чисел на четність.");
+            Console.WriteLine("Завдання 3\nНапишіть програму для перевірки чисел на четність.");
             int num = Convert.ToInt16(Console.ReadLine());
             
             if(num %2 == 0){
@@ -43,7 +45,7 @@ namespace CharpUnik
         }
 
         private void Task4(){
-            Console.WriteLine("Напишіть програму для розрахунку премій для співробітників, враховуючи їхню ви слугу в роках.");
+            Console.WriteLine("Завдання 4\nНапишіть програму для розрахунку премій для співробітників, враховуючи їхню ви слугу в роках.");
 
             Console.Write("Введіть премію за рок: ");
             int premia = Convert.ToInt32(Console.ReadLine());

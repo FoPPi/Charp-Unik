@@ -8,7 +8,9 @@ namespace CharpUnik
 
         public void Main(string[] args)
         {
-            Console.WriteLine("Лабораторна робота 3");
+            Console.Clear();
+
+            Console.WriteLine("Лабораторна робота 3\n");
 
             Task2();
 
@@ -16,7 +18,7 @@ namespace CharpUnik
         }
 
         private void Task2(){
-            Console.WriteLine("Напишіть програму-калькулятор.");
+            Console.WriteLine("Завдання 2\nНапишіть програму-калькулятор.");
             int operator1 = 5, operator2 = 6;
 
             Console.WriteLine(operator1 + " ? " + operator2);
@@ -46,7 +48,7 @@ namespace CharpUnik
         }
     
         private void Task3(){
-            Console.WriteLine("Напишіть програму для визначення, чи потрапляє вказане користувачем число в діапазон від 0 до 100 та до якого саме числового проміжку воно належить.");
+            Console.WriteLine("Завдання 3\nНапишіть програму для визначення, чи потрапляє вказане користувачем число в діапазон від 0 до 100 та до якого саме числового проміжку воно належить.");
 
             Console.Write("Введіть число: ");
             int number = Convert.ToInt32(Console.ReadLine());

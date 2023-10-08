@@ -13,3 +13,5 @@
 /home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.pdb
 /home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.genruntimeconfig.cache
 /home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/ref/CharpUnik.dll
+/home/foppi/Desktop/C#/CharpUnik/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.csproj.CopyComplete
