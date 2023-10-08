@@ -1,0 +1,15 @@
+/home/foppi/Desktop/C#/CharpUnik/bin/Debug/net7.0/CharpUnik
+/home/foppi/Desktop/C#/CharpUnik/bin/Debug/net7.0/CharpUnik.deps.json
+/home/foppi/Desktop/C#/CharpUnik/bin/Debug/net7.0/CharpUnik.runtimeconfig.json
+/home/foppi/Desktop/C#/CharpUnik/bin/Debug/net7.0/CharpUnik.dll
+/home/foppi/Desktop/C#/CharpUnik/bin/Debug/net7.0/CharpUnik.pdb
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.csproj.AssemblyReference.cache
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.GeneratedMSBuildEditorConfig.editorconfig
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.AssemblyInfoInputs.cache
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.AssemblyInfo.cs
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.csproj.CoreCompileInputs.cache
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.dll
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/refint/CharpUnik.dll
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.pdb
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/CharpUnik.genruntimeconfig.cache
+/home/foppi/Desktop/C#/CharpUnik/obj/Debug/net7.0/ref/CharpUnik.dll

@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "CharpUnik.sln",
+    "csharp.debug.console": "integratedTerminal"
+}
