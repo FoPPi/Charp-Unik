@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "46evTxc7qPKSwz96utRKqTiCkZjCm16u7q4uezfTWsvlRoTCK4JW4sF7YNsONufvzlB7M8iv5HjQ3Vy778M3mA==",
+  "dgSpecHash": "uv9cjB1eH37SOc6yIprzq8V6KIHzHg8ZdzuG9sDyOvNeV0MhjzuCSYVZNKs8Vd9ChQ+9bvwZSaqALwTAZvZMPA==",
   "success": true,
-  "projectFilePath": "/home/foppi/Desktop/C#/CharpUnik/CharpUnik.csproj",
+  "projectFilePath": "C:\\Users\\Mishy\\RiderProjects\\Charp-Unik\\CharpUnik\\CharpUnik.csproj",
   "expectedPackageFiles": [
-    "/home/foppi/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Mishy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

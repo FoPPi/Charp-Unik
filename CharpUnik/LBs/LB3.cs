@@ -17,7 +17,7 @@ namespace CharpUnik
             Task3();
         }
 
-        private void Task2(){
+        private static void Task2(){
             Console.WriteLine("Завдання 2\nНапишіть програму-калькулятор.");
             int operator1 = 5, operator2 = 6;
 
@@ -47,7 +47,7 @@ namespace CharpUnik
             Console.Clear();
         }
     
-        private void Task3(){
+        private static void Task3(){
             Console.WriteLine("Завдання 3\nНапишіть програму для визначення, чи потрапляє вказане користувачем число в діапазон від 0 до 100 та до якого саме числового проміжку воно належить.");
 
             Console.Write("Введіть число: ");

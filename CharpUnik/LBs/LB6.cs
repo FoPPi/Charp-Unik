@@ -18,7 +18,7 @@ namespace CharpUnik
             Task3();
         }
 
-        private void Task2(){
+        private static void Task2(){
             Console.WriteLine("Завдання 2\nКонвертер валют\n");
 
             Console.Write("Введіть сумму UAH: ");
@@ -49,7 +49,7 @@ namespace CharpUnik
             Console.Clear();
         }
     
-        private void Task3(){
+        private static void Task3(){
             Console.WriteLine("Завдання 3\nМетод для визначення властивостей числа");
             Console.WriteLine(@"Напишіть метод, який буде визначати такі властивості числа:
             1) Чи є число додатним чи від'ємним.

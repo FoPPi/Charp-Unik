@@ -19,7 +19,7 @@ namespace CharpUnik
             Task4();
         }
 
-        private void Task2(){
+        private static void Task2(){
             Console.WriteLine("Завдання 2\nЗадано два числа A і B (A  B). Виведіть суму всіх чисел, розташованих між цими числами на екран.");
             Console.Write("A: ");
             int num1 = Convert.ToInt16(Console.ReadLine());
@@ -38,7 +38,7 @@ namespace CharpUnik
             Console.Clear();
         }
     
-        private void Task3(){
+        private static void Task3(){
             Console.WriteLine("Завдання 3\n");
 
             // Rectangle
@@ -121,7 +121,7 @@ namespace CharpUnik
             Console.Clear();
         }
     
-        private void Task4(){
+        private static void Task4(){
             Console.WriteLine("Завдання 4\nЗадано N клієнтів, яким компанія-виробник повинна доставити товар. Порахуйте, скільки існує можливих маршрутів доставки товару, з урахуванням того, що товар буде доставляти одна машина.");
         
             int N = 5; 
