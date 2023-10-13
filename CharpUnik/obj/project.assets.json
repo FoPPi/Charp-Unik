@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mishy\\.nuget\\packages\\": {}
+    "/home/foppi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mishy\\RiderProjects\\Charp-Unik\\CharpUnik\\CharpUnik.csproj",
+      "projectUniqueName": "/home/foppi/Desktop/C#/CharpUnik/CharpUnik.csproj",
       "projectName": "CharpUnik",
-      "projectPath": "C:\\Users\\Mishy\\RiderProjects\\Charp-Unik\\CharpUnik\\CharpUnik.csproj",
-      "packagesPath": "C:\\Users\\Mishy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mishy\\RiderProjects\\Charp-Unik\\CharpUnik\\obj\\",
+      "projectPath": "/home/foppi/Desktop/C#/CharpUnik/CharpUnik.csproj",
+      "packagesPath": "/home/foppi/.nuget/packages/",
+      "outputPath": "/home/foppi/Desktop/C#/CharpUnik/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mishy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/foppi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -112,7 +112,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Mishy\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }

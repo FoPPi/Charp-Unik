@@ -29,6 +29,10 @@ namespace CharpUnik
 
             var valut = JsonConvert.DeserializeObject<NBUStatService[]>(json);
 
+            if(valut == null){
+                Console.WriteLine("API error occurred");
+                return;
+            }
             for (int i = 0; i < valut.Length; i++)
             {
                 Console.WriteLine(i + 1 + " " + valut[i].txt);

@@ -6,6 +6,10 @@ namespace CharpUnik
     {
         static void Main(string[] args)
         {
+            // new LB1().Main(args);
+
+            // new LB2().Main(args);
+
             // new LB3().Main(args);
 
             // new LB4().Main(args);
@@ -16,7 +20,7 @@ namespace CharpUnik
             
             // new LB7().Main(args);
             
-            new LB8().Main(args);
+            // new LB8().Main(args);
         }
     }
 }
